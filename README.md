@@ -1,6 +1,9 @@
 # ci-python-github-actions
-- Displays a basic CI workflow using GitHub Actions.
-- Workflow automatically runs Python script whenever code is updated on GitHub.
+
+![Python CI Workflow](https://github.com/JalenG22/ci-python-github-actions/actions/workflows/python-ci.yml/badge.svg)](https://github.com/JalenG22/ci-python-github-actions/actions/workflows/python-ci.yml)
+
+Displays a basic CI workflow using GitHub Actions.
+Workflow automatically runs Python script whenever code is updated on GitHub.
 
 ## Tech
 - Python
@@ -16,4 +19,4 @@
 - Run scripts without manual execution
 
 #### Testing
--
+- Successfully tested the workflow and script with GitHub Actions
